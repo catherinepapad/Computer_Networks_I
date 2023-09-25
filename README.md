@@ -1,2 +1,3 @@
-# Computer_Networks_I
- Assignments for "Computer Networks I" course of ECE in AUTh. 
+# Computer Networks I, ECE AUTh, 2021-22
+
+Implement a virtual modem that establishes connection with "Ithaki" server, sends requests and receives packages. 

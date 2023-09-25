@@ -1,7 +1,7 @@
-/**
- * @author Aikaterini Papadopoulou
- *
- */
+/*
+	@author Aikaterini Papadopoulou
+*/ 
+
 
 import ithakimodem.*;
 import java.io.*;
